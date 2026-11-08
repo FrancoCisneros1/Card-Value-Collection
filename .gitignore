@@ -1,1 +1,6 @@
 /asdd-ai-workflow/
+node_modules
+dist
+.env*.local
+*.log
+.DS_Store
